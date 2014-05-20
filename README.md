@@ -1,7 +1,7 @@
 Encryption Tool
 ------------------
 
-This is a Java-based application to encrypt select configuration parameters that require encryption for the inBloom Educator Dashboard.
+This is a Java-based application to encrypt select configuration parameters that require encryption for the Educator Dashboard.
 
 Usage: java -jar encryption-tool.jar <keystore_location> <keystore_password> <key_alias> <key_password> <string>
 
@@ -15,3 +15,6 @@ In order to create a distribution, run the following Maven command in the cloned
 % mvn package –DskipTests
 
 The distribution will be created under target.
+
+## Licensing
+CSV2XML is licensed under the Apache License, Version 2.0. See LICENSE-2.0.txt for full license text.

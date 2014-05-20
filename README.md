@@ -17,4 +17,4 @@ In order to create a distribution, run the following Maven command in the cloned
 The distribution will be created under target.
 
 ## Licensing
-CSV2XML is licensed under the Apache License, Version 2.0. See LICENSE-2.0.txt for full license text.
+Encryption Tool is licensed under the Apache License, Version 2.0. See LICENSE-2.0.txt for full license text.
